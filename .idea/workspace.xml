@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="AndroidLogFilters">
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="1301279e" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_3_XL_API_29" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -60,7 +67,7 @@
     <property name="show.do.not.ask.upgrade.gradle.plugin.version" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.version" value="5.4.1" />
   </component>
-  <component name="RunManager" selected="Android JUnit._1_StartTheStoreInformationActivity">
+  <component name="RunManager" selected="Android JUnit._2_StartTheGoogleMapsActivity">
     <configuration name="_1_StartTheStoreInformationActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="app" />
       <extension name="coverage">
@@ -71,6 +78,22 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.pluralsight.candycoded" />
       <option name="MAIN_CLASS_NAME" value="com.pluralsight.candycoded._1_StartTheStoreInformationActivity" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_2_StartTheGoogleMapsActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pluralsight.candycoded.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pluralsight.candycoded" />
+      <option name="MAIN_CLASS_NAME" value="com.pluralsight.candycoded._2_StartTheGoogleMapsActivity" />
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -129,6 +152,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Android JUnit._2_StartTheGoogleMapsActivity" />
         <item itemvalue="Android JUnit._1_StartTheStoreInformationActivity" />
         <item itemvalue="Android JUnit.com.pluralsight.candycoded in app" />
       </list>
@@ -172,33 +196,46 @@
       <screen x="72" y="27" width="1294" height="741" />
     </state>
     <state x="560" y="289" width="410" height="223" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/72.27.1294.741/1366.0.1366.768@72.27.1294.741" timestamp="1601155278186" />
-    <state x="577" y="165" width="274" height="472" key="AndroidProcessChooserDialog" timestamp="1601159709966">
-      <screen x="72" y="27" width="1294" height="741" />
+    <state x="1438" y="165" width="274" height="472" key="AndroidProcessChooserDialog" timestamp="1601241099811">
+      <screen x="72" y="27" width="2660" height="741" />
     </state>
     <state x="577" y="165" width="274" height="472" key="AndroidProcessChooserDialog/72.27.1294.741/1366.0.1366.768@72.27.1294.741" timestamp="1601159709966" />
+    <state x="1438" y="165" key="AndroidProcessChooserDialog/72.27.2660.741@72.27.2660.741" timestamp="1601241099811" />
     <state x="176" y="27" width="1076" height="741" key="CommitChangelistDialog2" timestamp="1601159841504">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
     <state x="176" y="27" width="1076" height="741" key="CommitChangelistDialog2/72.27.1294.741/1366.0.1366.768@72.27.1294.741" timestamp="1601159841504" />
-    <state width="1248" height="172" key="GridCell.Tab.0.bottom" timestamp="1601159868125">
-      <screen x="72" y="27" width="1294" height="741" />
+    <state width="1248" height="172" key="GridCell.Tab.0.bottom" timestamp="1601241152852">
+      <screen x="72" y="27" width="2660" height="741" />
     </state>
-    <state width="1248" height="172" key="GridCell.Tab.0.bottom/72.27.1294.741/1366.0.1366.768@72.27.1294.741" timestamp="1601159868125" />
-    <state width="1248" height="172" key="GridCell.Tab.0.center" timestamp="1601159868125">
-      <screen x="72" y="27" width="1294" height="741" />
+    <state width="1248" height="172" key="GridCell.Tab.0.bottom/72.27.1288.741/1366.0.1366.768@72.27.1288.741" timestamp="1601160623836" />
+    <state width="1248" height="172" key="GridCell.Tab.0.bottom/72.27.1294.741/1366.0.1366.768@72.27.1294.741" timestamp="1601160266940" />
+    <state width="1248" height="172" key="GridCell.Tab.0.bottom/72.27.2660.741@72.27.2660.741" timestamp="1601241152852" />
+    <state width="1248" height="172" key="GridCell.Tab.0.center" timestamp="1601241152851">
+      <screen x="72" y="27" width="2660" height="741" />
     </state>
-    <state width="1248" height="172" key="GridCell.Tab.0.center/72.27.1294.741/1366.0.1366.768@72.27.1294.741" timestamp="1601159868125" />
-    <state width="1248" height="172" key="GridCell.Tab.0.left" timestamp="1601159868123">
-      <screen x="72" y="27" width="1294" height="741" />
+    <state width="1248" height="172" key="GridCell.Tab.0.center/72.27.1288.741/1366.0.1366.768@72.27.1288.741" timestamp="1601160623836" />
+    <state width="1248" height="172" key="GridCell.Tab.0.center/72.27.1294.741/1366.0.1366.768@72.27.1294.741" timestamp="1601160266940" />
+    <state width="1248" height="172" key="GridCell.Tab.0.center/72.27.2660.741@72.27.2660.741" timestamp="1601241152851" />
+    <state width="1248" height="172" key="GridCell.Tab.0.left" timestamp="1601241152840">
+      <screen x="72" y="27" width="2660" height="741" />
     </state>
-    <state width="1248" height="172" key="GridCell.Tab.0.left/72.27.1294.741/1366.0.1366.768@72.27.1294.741" timestamp="1601159868123" />
-    <state width="1248" height="172" key="GridCell.Tab.0.right" timestamp="1601159868125">
-      <screen x="72" y="27" width="1294" height="741" />
+    <state width="1248" height="172" key="GridCell.Tab.0.left/72.27.1288.741/1366.0.1366.768@72.27.1288.741" timestamp="1601160623835" />
+    <state width="1248" height="172" key="GridCell.Tab.0.left/72.27.1294.741/1366.0.1366.768@72.27.1294.741" timestamp="1601160266939" />
+    <state width="1248" height="172" key="GridCell.Tab.0.left/72.27.2660.741@72.27.2660.741" timestamp="1601241152840" />
+    <state width="1248" height="172" key="GridCell.Tab.0.right" timestamp="1601241152851">
+      <screen x="72" y="27" width="2660" height="741" />
     </state>
-    <state width="1248" height="172" key="GridCell.Tab.0.right/72.27.1294.741/1366.0.1366.768@72.27.1294.741" timestamp="1601159868125" />
+    <state width="1248" height="172" key="GridCell.Tab.0.right/72.27.1288.741/1366.0.1366.768@72.27.1288.741" timestamp="1601160623836" />
+    <state width="1248" height="172" key="GridCell.Tab.0.right/72.27.1294.741/1366.0.1366.768@72.27.1294.741" timestamp="1601160266940" />
+    <state width="1248" height="172" key="GridCell.Tab.0.right/72.27.2660.741@72.27.2660.741" timestamp="1601241152851" />
     <state x="208" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1601156630029">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
     <state x="208" y="31" width="1022" height="737" key="SettingsEditor/72.27.1294.741/1366.0.1366.768@72.27.1294.741" timestamp="1601156630029" />
+    <state x="373" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1601240258869">
+      <screen x="72" y="27" width="2660" height="741" />
+    </state>
+    <state x="373" y="225" key="com.intellij.ide.util.TipDialog/72.27.2660.741@72.27.2660.741" timestamp="1601240258869" />
   </component>
 </project>
